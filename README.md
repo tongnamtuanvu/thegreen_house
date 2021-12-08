@@ -4,7 +4,7 @@
 các hoạt động xã hội bảo vệ môi trường xung quanh ta.
 Linkedin dành cho công việc,
 Facebook dành cho giải trí,
-Thì Greenhouse dành cho việc bảo vệ môi trường, đến với Greenhouse - chúng mình
+thì Greenhouse dành cho việc bảo vệ môi trường, đến với Greenhouse - chúng mình
 sẽ lưu trữ mọi khoảng khắc đáng nhớ của bạn trong hành trình bảo vệ môi trường sắp tói.
 
 ## Getting Started
